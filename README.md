@@ -49,6 +49,8 @@ Start the server
 **Server:** Node, Express , MYSQL
 
 ## Video DEMO
+[<img src="https://github.com/VrushabhTawde/FlexmoneyYogaapp/assets/91945151/29766911-45e9-4a8c-966a-0762a48cfb16" 
+   width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 [![Watch the video](https://github.com/VrushabhTawde/FlexmoneyYogaapp/assets/91945151/29766911-45e9-4a8c-966a-0762a48cfb16)
 
