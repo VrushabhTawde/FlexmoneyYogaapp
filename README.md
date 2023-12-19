@@ -48,12 +48,9 @@ Start the server
 
 **Server:** Node, Express , MYSQL
 
-##Video DEMo:
+## Video DEMO
 
-
-
-
-https://github.com/VrushabhTawde/FlexmoneyYogaapp/assets/91945151/29766911-45e9-4a8c-966a-0762a48cfb16
+[![Watch the video](https://github.com/VrushabhTawde/FlexmoneyYogaapp/assets/91945151/29766911-45e9-4a8c-966a-0762a48cfb16)
 
 
 
